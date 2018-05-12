@@ -1,0 +1,32 @@
+_repo: Government-Ownership-of-Railroads-and-War-Taxation_29493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kahn, Otto H.
+    alias: Kahn, Otto Hermann
+    birthdate: 1867
+    deathdate: 1934
+    gutenberg_agent_id: '33791'
+    url: http://www.gutenberg.org/2009/agents/33791
+    wikipedia: http://en.wikipedia.org/wiki/Otto_Hermann_Kahn
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29493'
+  lccn: '18022764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads and state -- United States'
+- !lcc 'HE'
+- !lcsh 'World War, 1914-1918 -- Finance -- United States'
+- !lcsh 'Finance, Public -- United States -- History -- 1901-1933'
+title: Government Ownership of Railroads, and War Taxation
+url: http://www.gutenberg.org/ebooks/29493
